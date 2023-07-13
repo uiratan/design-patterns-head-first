@@ -18,5 +18,7 @@ public class MiniDuckSimulator {
 		
 		DuckCall dc = new DuckCall();
 		dc.quack();
+		
+		// teste
 	}
 }
